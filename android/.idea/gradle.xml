@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/git/flutter_inappwebview-9c7ac0da8f01ceb40430da58397bdb31968ca5b1/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.3+2/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-2.4.1/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.4/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+7/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.5/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+5/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+2/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.21/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

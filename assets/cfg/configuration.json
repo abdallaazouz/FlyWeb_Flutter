@@ -1,0 +1,8 @@
+{
+  "base_url": "http://positifmobile.com/positifMobile/flyweb/demo/",
+  "api_base_url": "http://positifmobile.com/positifMobile/flyweb/admin_v1.2/api",
+  "firstColor": "#7b50dc",
+  "secondColor": "#7b50dc",
+  "appIdOneSignal": "90b0425f-3d32-429a-a7f5-cc4e5e82fe49",
+  "defaultLanguage": "en"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">400659587054-qbbdkr64m9mi13jl2tq73665aa2csoe1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://flyweb-2020.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">400659587054</string>
+    <string name="google_api_key" translatable="false">AIzaSyDNKy8damDiZfaqCL6uZLBh0UmgluSDHC0</string>
+    <string name="google_app_id" translatable="false">1:400659587054:android:a987afd697667593a6f8ff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNKy8damDiZfaqCL6uZLBh0UmgluSDHC0</string>
+    <string name="google_storage_bucket" translatable="false">flyweb-2020.appspot.com</string>
+    <string name="project_id" translatable="false">flyweb-2020</string>
+</resources>

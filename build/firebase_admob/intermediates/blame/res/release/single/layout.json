@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\33e5ae0b4711709cb339233c513b94a7\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\3aaf6e5219b7f981ec263df919098c6f\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\firebase_admob\\intermediates\\res\\merged\\release\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\33e5ae0b4711709cb339233c513b94a7\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    }
+]

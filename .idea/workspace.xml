@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a7c06a1-4967-4ea9-aec6-5070b928b120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gKhPpE69AlvcjD0azRsGFHKP3Z" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a7c06a1-4967-4ea9-aec6-5070b928b120" name="Default Changelist" comment="" />
+      <created>1607483149501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607483149501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="215" key="FileChooserDialogImpl" timestamp="1607483219264">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="420" y="215" key="FileChooserDialogImpl/0.0.1280.920@0.0.1280.920" timestamp="1607483219264" />
+    <state x="149" y="103" key="SettingsEditor" timestamp="1607483223100">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="149" y="103" key="SettingsEditor/0.0.1280.920@0.0.1280.920" timestamp="1607483223100" />
+    <state x="337" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1607483188766">
+      <screen x="0" y="0" width="1280" height="920" />
+    </state>
+    <state x="337" y="284" key="com.intellij.ide.util.TipDialog/0.0.1280.920@0.0.1280.920" timestamp="1607483188766" />
+  </component>
+</project>

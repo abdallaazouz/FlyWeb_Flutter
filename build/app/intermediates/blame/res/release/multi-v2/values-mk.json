@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\1df39565955c5fd0fb9e2eb720586f19\\jetified-firebase-messaging-20.0.0\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2837",
+                        "endColumns": "103",
+                        "endOffsets": "2936"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\35f29bb1a578f0319e9c3e21730b6b49\\core-1.2.0\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "3584",
+                        "endColumns": "100",
+                        "endOffsets": "3680"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\c74e9d76b9181d3585ba58111e512b89\\play-services-base-17.2.1\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,350,543,674,782,986,1117,1263,1398,1614,1719,1916,2047,2259,2444,2539,2629",
+                        "endColumns": "104,192,130,107,203,130,145,134,215,104,196,130,211,184,94,89,103",
+                        "endOffsets": "349,542,673,781,985,1116,1262,1397,1613,1718,1915,2046,2258,2443,2538,2628,2732"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,407,542,654,858,993,1143,1478,1694,1803,2000,2135,2347,2536,2635,2729",
+                        "endColumns": "108,192,134,111,203,134,149,138,215,108,196,134,211,188,98,93,107",
+                        "endOffsets": "209,402,537,649,853,988,1138,1277,1689,1798,1995,2130,2342,2531,2630,2724,2832"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\218dec5b929920848cd4d1c1d2435742\\jetified-play-services-basement-17.2.1\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "195",
+                        "endOffsets": "442"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1282",
+                        "endColumns": "195",
+                        "endOffsets": "1473"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\d8e0f5fbb3f6095efd57e7b3300974e4\\jetified-play-services-ads-18.1.1\\res\\values-mk\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,272,403,468,531,616,733",
+                        "endColumns": "74,130,64,62,84,116,78",
+                        "endOffsets": "271,402,467,530,615,732,811"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2941,3020,3155,3224,3291,3380,3501",
+                        "endColumns": "78,134,68,66,88,120,82",
+                        "endOffsets": "3015,3150,3219,3286,3375,3496,3579"
+                    }
+                }
+            ]
+        }
+    ]
+}

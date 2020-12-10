@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.0.2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4+3" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.3+2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.22+1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0+1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-2.4.1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+5" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/store_redirect-1.0.2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.5" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-0.4.8+6" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+3" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-1.0.0" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/share-0.6.4" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

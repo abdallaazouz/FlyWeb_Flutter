@@ -1,0 +1,4 @@
+# Referenced at C:\Users\azouz\Desktop\Downloads\flyweb-13\FlyWeb_Flutter\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:62
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\azouz\Desktop\Downloads\flyweb-13\FlyWeb_Flutter\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:62
+-keep class io.flutter.app.FlutterApplication { <init>(); }

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\c74e9d76b9181d3585ba58111e512b89\\play-services-base-17.2.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\c74e9d76b9181d3585ba58111e512b89\\play-services-base-17.2.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\azouz\\Desktop\\Downloads\\flyweb-13\\FlyWeb_Flutter\\build\\google_api_availability\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\azouz\\.gradle\\caches\\transforms-2\\files-2.1\\c74e9d76b9181d3585ba58111e512b89\\play-services-base-17.2.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]
